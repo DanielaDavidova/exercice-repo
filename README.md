@@ -2,6 +2,7 @@
 first exercice
 Repo made for exercises
 
-This will make a conflict!
+This will contain...
 
-Making somechanges here!
+Repository made for exercises.
+Hello, again!!!
