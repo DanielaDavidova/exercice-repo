@@ -1,7 +1,4 @@
 # exercice-repo
-first exercice
-Repo made for exercises
-
-This will make a conflict!
-
-Making somechanges here!
+This project will contain...
+Repository made for exrcises.
+Edited again in master branch..
